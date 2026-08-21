@@ -89,6 +89,17 @@ Portfolio Admin
 </li>
 <li class="nav-item">
 
+<a href="<?= base_url('index.php/admin/users') ?>" class="nav-link">
+
+<i class="nav-icon fas fa-users"></i>
+
+<p>User Management</p>
+
+</a>
+
+</li>
+<li class="nav-item">
+
 <a href="<?= base_url('index.php/admin/logout') ?>" class="nav-link">
 
 <i class="nav-icon fas fa-sign-out-alt"></i>
